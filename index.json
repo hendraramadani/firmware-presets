@@ -138,7 +138,9 @@
       "4.5"
     ],
     "category": [
-      "RATES"
+      "FILTERS",
+      "RATES",
+      "TUNE"
     ],
     "author": [
       "Betaflight",
@@ -146,12 +148,21 @@
     ],
     "keywords": [
       "actual",
+      "basic",
+      "Cinematic",
+      "Cinewhoop",
+      "default",
       "defaults",
+      "filter",
+      "filters",
       "freestyle",
       "juicy",
+      "pid",
       "rates",
+      "reset",
       "sbang",
-      "snappy"
+      "snappy",
+      "Tune"
     ]
   },
   "presets": [
@@ -176,7 +187,7 @@
     },
     {
       "fullPath": "presets/4.4/rates/HR_FPV.txt",
-      "hash": "1ce7aee5f859a4d7d4bdf53c3f98423ead7d61196526db2545752436447359fc",
+      "hash": "1bf3e84d3bd5b434cbf62354d3755671ca543abd4beeb79c9fbf25c94f297597",
       "title": "HR-FPV Rates - SBANG Freestyle",
       "firmware_version": [
         "4.3",
@@ -194,6 +205,64 @@
       ],
       "author": "HR-FPV (Hendra Ramadani)",
       "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.4/tune/Cinebeast_3_0_inch.txt",
+      "hash": "0eaf02df7a893129fbebc3dedeab9ba03a966f5fed35423f1d2e723b0fedc229",
+      "title": "Cinebeast 3\"",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Tune",
+        "Cinematic",
+        "Cinewhoop"
+      ],
+      "author": "HR-FPV (Hendra Ramadani)",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.4/tune/filter_defaults.txt",
+      "hash": "92366e953fa582e9e5e7c02588320e9adfb21088d228033ed9c980fa7e2b235e",
+      "title": "Default 4.3 Filter settings",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "FILTERS",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "filter",
+        "filters",
+        "reset"
+      ],
+      "author": "Betaflight",
+      "priority": 100
+    },
+    {
+      "fullPath": "presets/4.4/tune/tune_defaults.txt",
+      "hash": "a1f697d328e5614ebf298819ace98767fb39adc22270a1428ccd3b8ff3608f0c",
+      "title": "Betaflight 4.4 TUNE defaults",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "Betaflight",
+      "priority": 0
     }
   ]
 }
