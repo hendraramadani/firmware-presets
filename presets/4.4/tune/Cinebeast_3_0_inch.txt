@@ -1,10 +1,10 @@
-#$ TITLE: HR-FPV Rates - SBANG Freestyle
+#$ TITLE: Cinebeast 3" 
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: TUNE
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: tune, freestyle, snappy, juicy, sbang
+#$ KEYWORDS: Tune, Cinematic, Cinewhoop
 #$ AUTHOR: HR-FPV (Hendra Ramadani)
 
 #$ PARSER: MARKED
