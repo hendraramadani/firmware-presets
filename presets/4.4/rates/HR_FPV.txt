@@ -12,7 +12,7 @@
 #$ DESCRIPTION: HR-FPV SBANG Freestyle Rates
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION:
-#$ DESCRIPTION: <a href="https://www.youtube.com/@hr-fpv" target="_blank"><img src="https://github.com/hendraramadani/tmppp/blob/main/HR%20FPV.png" width="100px" style="float:left; margin-right: 25px; display: block;"/></a><br /><br />
+#$ DESCRIPTION: <a href="https://www.youtube.com/@hr-fpv" target="_blank"><img src="https://raw.githubusercontent.com/hendraramadani/tmppp/main/HR_FPV.png" width="100px" style="float:left; margin-right: 25px; display: block;"/></a><br /><br />
 #$ DESCRIPTION: These are the rates I've been using for a couple of years now for SBANG freestyle. I am a pincher, so these are pretty sensitive. They give a lot of center control but are still snappy out to the edges. Give them a try! 
 #$ DESCRIPTION: <br /><br />
 #$ DESCRIPTION:
