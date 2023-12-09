@@ -27,7 +27,7 @@
 #$ DESCRIPTION: <tr><th width="45" > RC Rate </th><th width="55" > Super Rate </th><th width="75" > Expo </th><th width="45" > Expo </th></tr>
 #$ DESCRIPTION: <tr><td> ROLL </td><td> 2.16 </td><td> 0 </td><td> 0.68 </td></tr>
 #$ DESCRIPTION: <tr><td> PITCH </td><td> 2.16 </td><td> 0 </td><td> 0.68 </td></tr>
-#$ DESCRIPTION: <tr><td> YAW </td><td> 2.16 </td><td> 0.01 </td><td> 0.66 </td></tr>
+#$ DESCRIPTION: <tr><td> YAW </td><td> 2.14 </td><td> 0.01 </td><td> 0.66 </td></tr>
 #$ DESCRIPTION: </table>
 #$ DESCRIPTION:
 #$ WARNING: Rates will overwrite the currently selected rate profile 
