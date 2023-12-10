@@ -1,9 +1,9 @@
-#$ TITLE: Cinebeast 3" 
+#$ TITLE: Cinebeast 3" (BETATEST)
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: TUNE
-#$ STATUS: COMMUNITY
+#$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: Tune, Cinematic, Cinewhoop
 #$ AUTHOR: HR-FPV (Hendra Ramadani)
 
