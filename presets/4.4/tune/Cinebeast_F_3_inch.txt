@@ -1,36 +1,15 @@
-#$ TITLE: Cinebeast 3" (BETATEST)
+#$ TITLE: Cinebeast 3" (Freestyle Tune)
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: TUNE
-#$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: Tune, Cinematic, Cinewhoop
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: Tune, Cinewhoop, Freestyle
 #$ AUTHOR: HR-FPV (Hendra Ramadani)
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: HR-FPV SBANG Freestyle Rates
-#$ DESCRIPTION: -----------
-#$ DESCRIPTION:
-#$ DESCRIPTION: <a href="https://www.youtube.com/@hr-fpv" target="_blank"><img src="https://raw.githubusercontent.com/hendraramadani/tmppp/main/HR_FPV.png" width="100px" style="float:left; margin-right: 25px; display: block;"/></a><br /><br />
-#$ DESCRIPTION: These are the rates I've been using for a couple of years now for SBANG freestyle. I am a pincher, so these are pretty sensitive. They give a lot of center control but are still snappy out to the edges. Give them a try! 
-#$ DESCRIPTION: <br /><br />
-#$ DESCRIPTION:
-#$ DESCRIPTION: Information
-#$ DESCRIPTION: -----------
-#$ DESCRIPTION: 
-#$ DESCRIPTION: These rates are based on the Btaflight rate system and are pretty aggressive, with fairly sensitive center stick at 200 deg/s and full deflection rates at 900 deg/s. I have also added a slight expo to slow down the transition.
-#$ DESCRIPTION: <br /><br />
-#$ DESCRIPTION: - Rates Type: **Betaflight**
-#$ DESCRIPTION: <br /><br />
-#$ DESCRIPTION: <table class="ratestable">
-#$ DESCRIPTION: <tr><th width="45" > Axis </th><th width="55" > RC Rate </th><th width="75" > Super Rate </th><th width="45" > Expo </th></tr>
-#$ DESCRIPTION: <tr><td> ROLL </td><td> 2.16 </td><td> 0 </td><td> 0.68 </td></tr>
-#$ DESCRIPTION: <tr><td> PITCH </td><td> 2.16 </td><td> 0 </td><td> 0.68 </td></tr>
-#$ DESCRIPTION: <tr><td> YAW </td><td> 2.14 </td><td> 0.01 </td><td> 0.66 </td></tr>
-#$ DESCRIPTION: </table>
-#$ DESCRIPTION:
-#$ WARNING: Rates will overwrite the currently selected rate profile 
+#$ DESCRIPTION: Cinebeast 3 Inch Freestyle Tune
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/384
 
 #$ INCLUDE_WARNING: misc/warnings/en/dshot.txt
@@ -39,7 +18,7 @@
 #$ INCLUDE: presets/4.4/tune/filter_defaults.txt
 
 # -- End Defaults --
-# -- Begin HR-FPV Rates --
+# -- Begin Cinebeast Tune --
 
 set gyro_lpf1_static_hz = 150
 set gyro_lpf2_static_hz = 300
@@ -68,6 +47,8 @@ set vbat_sag_compensation = 100
 set anti_gravity_gain = 95
 set iterm_relax = RPY
 set iterm_relax_cutoff = 3
+set pidsum_limit = 1000
+set pidsum_limit_yaw = 1000
 set p_pitch = 82
 set i_pitch = 154
 set d_pitch = 86

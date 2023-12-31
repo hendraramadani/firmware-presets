@@ -207,9 +207,9 @@
       "priority": 10000
     },
     {
-      "fullPath": "presets/4.4/tune/Cinebeast_3_0_inch.txt",
-      "hash": "0eaf02df7a893129fbebc3dedeab9ba03a966f5fed35423f1d2e723b0fedc229",
-      "title": "Cinebeast 3\"",
+      "fullPath": "presets/4.4/tune/Cinebeast_C_2'5_inch.txt",
+      "hash": "db1670ed6fec051709168ad85971e0d3674fb77b28a6144f1de6e4a49da7a74f",
+      "title": "Cinebeast 2.5\" (Cinematic Tune)",
       "firmware_version": [
         "4.3",
         "4.4",
@@ -219,8 +219,46 @@
       "status": "COMMUNITY",
       "keywords": [
         "Tune",
-        "Cinematic",
-        "Cinewhoop"
+        "Cinewhoop",
+        "Cinematic"
+      ],
+      "author": "HR-FPV (Hendra Ramadani)",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.4/tune/Cinebeast_C_3_inch.txt",
+      "hash": "da2c69ad60b31f035cd8dbec438438a4acf601bb90b0e2a423bdeee5b30f68a8",
+      "title": "Cinebeast 3\" (Cinematic Tune)",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Tune",
+        "Cinewhoop",
+        "Cinematic"
+      ],
+      "author": "HR-FPV (Hendra Ramadani)",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.4/tune/Cinebeast_F_3_inch.txt",
+      "hash": "49a289cfccea2385804fb49072f6b3ae6289e3a3ebd37082ea19782306d79bf3",
+      "title": "Cinebeast 3\" (Freestyle Tune)",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Tune",
+        "Cinewhoop",
+        "Freestyle"
       ],
       "author": "HR-FPV (Hendra Ramadani)",
       "priority": 1000000000000

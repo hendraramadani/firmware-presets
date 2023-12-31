@@ -1,0 +1,68 @@
+#$ TITLE: Cinebeast 2.5" (Cinematic Tune)
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: TUNE
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: Tune, Cinewhoop, Cinematic
+#$ AUTHOR: HR-FPV (Hendra Ramadani)
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: Cinebeast 2.5 Inch Cinematic Tune
+#$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/384
+
+#$ INCLUDE_WARNING: misc/warnings/en/dshot.txt
+#$ INCLUDE_WARNING: misc/warnings/en/rpm_filters.txt
+#$ INCLUDE: presets/4.4/tune/tune_defaults.txt
+#$ INCLUDE: presets/4.4/tune/filter_defaults.txt
+
+# -- End Defaults --
+# -- Begin Cinebeast Tune --
+
+
+set gyro_lpf1_static_hz = 225
+set gyro_lpf2_static_hz = 450
+set dyn_notch_count = 1
+set gyro_lpf1_dyn_min_hz = 225
+set gyro_lpf1_dyn_max_hz = 450
+set airmode_start_throttle_percent = 5
+set dshot_bidir = ON
+set small_angle = 180
+set simplified_gyro_filter_multiplier = 90
+set rpm_filter_min_hz = 95
+
+set dterm_lpf1_dyn_min_hz = 86
+set dterm_lpf1_dyn_max_hz = 172
+set dterm_lpf1_static_hz = 86
+set dterm_lpf2_static_hz = 172
+set vbat_sag_compensation = 100
+set anti_gravity_gain = 90
+set iterm_relax = RPY
+set iterm_relax_cutoff = 5
+set pidsum_limit = 1000
+set pidsum_limit_yaw = 1000
+set p_pitch = 72
+set i_pitch = 148
+set d_pitch = 76
+set f_pitch = 185
+set p_roll = 69
+set i_roll = 141
+set d_roll = 66
+set f_roll = 178
+set p_yaw = 73
+set i_yaw = 150
+set f_yaw = 185
+set d_min_roll = 62
+set d_min_pitch = 71
+set thrust_linear = 35
+set dyn_idle_min_rpm = 40
+set simplified_pids_mode = RP
+set simplified_master_multiplier = 110
+set simplified_i_gain = 115
+set simplified_d_gain = 190
+set simplified_pi_gain = 140
+set simplified_dmax_gain = 20
+set simplified_feedforward_gain = 135
+set simplified_dterm_filter_multiplier = 115
+set tpa_breakpoint = 1300
