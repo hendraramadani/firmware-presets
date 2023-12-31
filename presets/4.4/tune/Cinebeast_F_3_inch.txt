@@ -14,23 +14,23 @@
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: Spesifikasi Rekomendasi :
 #$ DESCRIPTION:
-#$ DESCRIPTION: Cinebeast 3 inch Frame
+#$ DESCRIPTION: - Cinebeast 3 inch Frame
 #$ DESCRIPTION:
-#$ DESCRIPTION: AIO 35A (MPU6000/ICM-42688) [Minimum]
+#$ DESCRIPTION: - AIO 35A (MPU6000/ICM-42688) [Minimum]
 #$ DESCRIPTION:
-#$ DESCRIPTION: 1804 Motor 
+#$ DESCRIPTION: - 1804 Motor 
 #$ DESCRIPTION:
-#$ DESCRIPTION: Gemfan D75 Props
+#$ DESCRIPTION: - Gemfan D75 Props
 #$ DESCRIPTION:
-#$ DESCRIPTION: Analog / HD System
+#$ DESCRIPTION: - Analog / HD System
 #$ DESCRIPTION:
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: Note :
 #$ DESCRIPTION:
-#$ DESCRIPTION: F7 AIO -> Dshot600 [8Khz Gyro Sampling / 8Khz Pidloop]
+#$ DESCRIPTION: - F7 AIO -> Dshot600 [8Khz Gyro Sampling / 8Khz Pidloop]
 #$ DESCRIPTION:
-#$ DESCRIPTION: F4 AIO -> Dshot400 [8Khz Gyro Sampling / 4Khz Pidloop]
+#$ DESCRIPTION: - F4 AIO -> Dshot400 [8Khz Gyro Sampling / 4Khz Pidloop]
 #$ DESCRIPTION:
 
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/384
