@@ -22,7 +22,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: - Gemfan D75 Props
 #$ DESCRIPTION:
-#$ DESCRIPTION: - Analog / HD System
+#$ DESCRIPTION: - Analog / HD FPV System
 #$ DESCRIPTION:
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>

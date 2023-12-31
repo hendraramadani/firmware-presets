@@ -208,7 +208,7 @@
     },
     {
       "fullPath": "presets/4.4/tune/Cinebeast_C_2'5_inch.txt",
-      "hash": "88bb812df528c431a8ecdc5bd02c18eb081b9c4e65091fe6d8d72001291c68bd",
+      "hash": "d4737b61ef01bd4de37fed25baef0dda9188f351b509562fcbe0fc2558e28e11",
       "title": "Cinebeast 2.5\" (Cinematic Tune)",
       "firmware_version": [
         "4.3",
@@ -227,7 +227,7 @@
     },
     {
       "fullPath": "presets/4.4/tune/Cinebeast_C_3_inch.txt",
-      "hash": "a9d25dd629944f197b5e8e2e6a4a9d20155b6774a1238f60ecba47295fdc44cd",
+      "hash": "3cfa621b58c72496521a843d0cbbcd3367ef6f363b2a95899cfd6070657fe496",
       "title": "Cinebeast 3\" (Cinematic Tune)",
       "firmware_version": [
         "4.3",
@@ -246,7 +246,7 @@
     },
     {
       "fullPath": "presets/4.4/tune/Cinebeast_F_3_inch.txt",
-      "hash": "b3c483e0b250fa8d9e47c5fe557ed161de7be64e6f35cdddfbd35581acdbc726",
+      "hash": "3ff01bf796edce0e1632837346c08efb8c149734502fa4743d86e802452d4495",
       "title": "Cinebeast 3\" (Freestyle Tune)",
       "firmware_version": [
         "4.3",

@@ -9,20 +9,27 @@
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: Cinebeast 2.5 Inch Cinematic Tune
-
-#$ DESCRIPTION: CINEBEAST 2.5 INC CINEMATIC TUNE
-#$ DESCRIPTION: ----------------------------------------------------
+#$ DESCRIPTION: CINEBEAST 2.5 INCH CINEMATIC TUNE
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: <br>
 #$ DESCRIPTION: Spesifikasi Rekomendasi :
-#$ DESCRIPTION: Cinebeast 2.5 inch Frame 
-#$ DESCRIPTION: AIO 25A (MPU6000/ICM-42688) [Minimum]
-#$ DESCRIPTION: 1404 / 1404.5 Motor 
-#$ DESCRIPTION: Gemfan D63 Props
-#$ DESCRIPTION: Analog / HD FPV System
-#$ DESCRIPTION: ----------------------------------------------------
+#$ DESCRIPTION: 
+#$ DESCRIPTION: - Cinebeast 2.5 inch Frame 
+#$ DESCRIPTION: 
+#$ DESCRIPTION: - AIO 25A (MPU6000/ICM-42688) [Minimum]
+#$ DESCRIPTION: 
+#$ DESCRIPTION: - 1404 / 1404.5 Motor 
+#$ DESCRIPTION: 
+#$ DESCRIPTION: - Gemfan D63 Props
+#$ DESCRIPTION: 
+#$ DESCRIPTION: - Analog / HD FPV System
+#$ DESCRIPTION: 
 #$ DESCRIPTION: Note :
-#$ DESCRIPTION: F7 AIO -> Dshot600 [8Khz Gyro Sampling / 8Khz Pidloop]
-#$ DESCRIPTION: F4 AIO -> Dshot400 [8Khz Gyro Sampling / 4Khz Pidloop]
+#$ DESCRIPTION: 
+#$ DESCRIPTION: - F7 AIO -> Dshot600 [8Khz Gyro Sampling / 8Khz Pidloop]
+#$ DESCRIPTION: 
+#$ DESCRIPTION: - F4 AIO -> Dshot400 [8Khz Gyro Sampling / 4Khz Pidloop]
+#$ DESCRIPTION: 
 
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/384
 
