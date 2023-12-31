@@ -10,6 +10,20 @@
 #$ PARSER: MARKED
 
 #$ DESCRIPTION: Cinebeast 3 Inch Freestyle Tune
+
+#$ DESCRIPTION: CINEBEAST 3 INC CINEMATIC TUNE
+#$ DESCRIPTION: ----------------------------------------------------
+#$ DESCRIPTION: Spesifikasi Rekomendasi :
+#$ DESCRIPTION: Cinebeast 3 inch Frame
+#$ DESCRIPTION: AIO 35A (MPU6000/ICM-42688) [Minimum]
+#$ DESCRIPTION: 1804 Motor 
+#$ DESCRIPTION: Gemfan D75 Props
+#$ DESCRIPTION: Analog / HD System
+#$ DESCRIPTION: ----------------------------------------------------
+#$ DESCRIPTION: Note :
+#$ DESCRIPTION: F7 AIO -> Dshot600 [8Khz Gyro Sampling / 8Khz Pidloop]
+#$ DESCRIPTION: F4 AIO -> Dshot400 [8Khz Gyro Sampling / 4Khz Pidloop]
+
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/384
 
 #$ INCLUDE_WARNING: misc/warnings/en/dshot.txt
